@@ -1,0 +1,15 @@
+commande pour cloner un repo 
+
+	- git clone "https://gtihub.com/user.name/user.documents.git
+
+Voici les 3 commanded pour push un fichier vers github
+
+ 1) Se rendre dans le fichier que le veut push
+ 
+ 2) taper les lignes de commandes suivante :
+
+	git add --all
+	git commit -m "le commentaire"
+	git push origin master
+
+
