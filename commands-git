@@ -12,4 +12,6 @@ Voici les 3 commanded pour push un fichier vers github
 	git commit -m "le commentaire"
 	git push origin master
 
+3)  Voici  la  commande  pour  push
 
+	git pul
